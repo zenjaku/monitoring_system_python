@@ -1,0 +1,7 @@
+pyautogui
+pymongo
+psutil
+cloudinary
+pywin32
+pillow
+pyscreeze
